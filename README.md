@@ -90,4 +90,4 @@ That is the kind of work I like to build around.
 
 * GitHub: [@pedroluna-gh](https://github.com/pedroluna-gh)
 * Website: [Charrúa Tech](https://charruatech.com/)
-* LinkedIn: Add your LinkedIn URL here
+* LinkedIn: https://www.linkedin.com/in/pedro-luna-s/
