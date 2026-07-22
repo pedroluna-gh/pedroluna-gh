@@ -1,6 +1,6 @@
 # Pedro Luna
 
-## SRE / Cloud Operations / Platform Engineering Leader
+## Platform Engineering Leader / Cloud Operations / Process driven innovator
 
 I build and improve operational systems for teams that run critical platforms: production readiness, incident response, change governance, deployment risk, observability, automation, and cloud operations.
 
